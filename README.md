@@ -1,6 +1,6 @@
 # Game-Of-Death
 
-Pictures from the game:
+### `Pictures from the game:`
 
 <img src="https://user-images.githubusercontent.com/93651794/222927004-86729278-2ddb-41f4-9930-0fc614b8050e.png" width="35%" height="30%"  ></img> 
 <img src="https://user-images.githubusercontent.com/93651794/222927298-2284b9fe-4fc3-45c0-8ba6-ae47f7d0f502.png" width="35%" height="35%"  ></img> 
@@ -16,12 +16,12 @@ Most of the programming was made with C++ in VISUAL STUDIO and all the rest in a
 You can download the game for free at the following link:
 https://drive.google.com/file/d/1c6KBDMeUnWDJ3G6rZSkvV6xHV5xjscsN/view
 
-ABOUT THE GAME:
+### `ABOUT THE GAME:`
 
    This is a third person game that takes inspiration from Bruce lee's "GAME OF DEATH" movie in 1978.
    The players's main purpose is to go through three stages (floors) of bosses and challenges,where eacg stage is more difficult that the previous one.
 
-THE GAME CONTAINS THE FOLLOWING:
+### `THE GAME CONTAINS THE FOLLOWING:`
 
 1. Enemies of different types drop different random pickups after death.
 2. Every boss has his own special attacks.
