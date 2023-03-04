@@ -1,5 +1,15 @@
 # Game-Of-Death
 
+Pictures from the game:
+
+<img src="https://user-images.githubusercontent.com/93651794/222927004-86729278-2ddb-41f4-9930-0fc614b8050e.png" width="45%" height=250  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222927298-2284b9fe-4fc3-45c0-8ba6-ae47f7d0f502.png" width="45%" height=250  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222927655-47b41406-0bd9-47c8-ab65-c7400063e071.png" width="45%" height=250  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222927729-397f8ee8-f367-43e8-9db7-c33de869116d.png" width="45%" height=250  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222927992-ea9d51dd-431e-4283-a36b-78182d5d54af.png" width="45%" height=250  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222928039-e9a5d4be-c3bd-4cc7-b560-008164cc12f7.png" width="45%" height=250  ></img> 
+
+
 The game was made in UNREAL ENGINE 5 as a personal project by me.
 Most of the programming was made with C++ in VISUAL STUDIO and all the rest in a combination of BLUEPRINTS with C++.
 
