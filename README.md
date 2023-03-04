@@ -2,7 +2,7 @@
 
 Pictures from the game:
 
-<img src="https://user-images.githubusercontent.com/93651794/222927004-86729278-2ddb-41f4-9930-0fc614b8050e.png" width="35%" height=191.9  ></img> 
+<img src="https://user-images.githubusercontent.com/93651794/222927004-86729278-2ddb-41f4-9930-0fc614b8050e.png" width="35%" height="30%"  ></img> 
 <img src="https://user-images.githubusercontent.com/93651794/222927298-2284b9fe-4fc3-45c0-8ba6-ae47f7d0f502.png" width="35%" height="35%"  ></img> 
 <img src="https://user-images.githubusercontent.com/93651794/222927655-47b41406-0bd9-47c8-ab65-c7400063e071.png" width="35%" height="35%"  ></img> 
 <img src="https://user-images.githubusercontent.com/93651794/222927729-397f8ee8-f367-43e8-9db7-c33de869116d.png" width="35%" height="35%"  ></img> 
