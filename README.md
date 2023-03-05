@@ -34,10 +34,12 @@ https://drive.google.com/file/d/1c6KBDMeUnWDJ3G6rZSkvV6xHV5xjscsN/view
 9. and many more...
 
 # Trailer:
-  https://www.youtube.com/watch?v=PMsAm4yWlOA
+  * https://www.youtube.com/watch?v=PMsAm4yWlOA
 
 # Full Game Walkthrough:
-  https://www.youtube.com/watch?v=I3zeBO-5zX0&t=439s
+  * https://www.youtube.com/watch?v=I3zeBO-5zX0&t=439s
   
 # The creation of "Game Of Death":
-  https://www.youtube.com/watch?v=zsyrcr0M_a8&t=289s
+  * https://www.youtube.com/watch?v=zsyrcr0M_a8&t=289s
+
+-----------------------------------------------------------------------------------------------------------
