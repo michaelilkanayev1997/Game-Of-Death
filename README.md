@@ -43,3 +43,17 @@ https://drive.google.com/file/d/1c6KBDMeUnWDJ3G6rZSkvV6xHV5xjscsN/view
   * https://www.youtube.com/watch?v=zsyrcr0M_a8&t=289s
 
 -----------------------------------------------------------------------------------------------------------
+
+### `Here are some ways in which this experience helped me as a Software Engineering Student:`
+
+1. Improved coding skills: Working on my personal game project using C++ and Unreal Engine 5 helped me improve my coding skills by requiring me to write optimized and efficient code.
+
+2. Increased understanding of game development: Developing a game project gave me a deeper understanding of game development concepts and how they apply in practice.
+
+3. Developed problem-solving skills: Working on my game project presented me with various challenges and problems to solve, which helped me develop my problem-solving skills and learn how to think creatively to overcome obstacles.
+
+4. Strengthened project management skills: Completing a game project requires careful planning and organization, which helped me improve my project management skills and learn how to effectively manage resources and deadlines.
+
+5. Boosted creativity: Developing a game project allowed me to explore my own ideas and become more creative and innovative as a programmer.
+
+Overall, my personal game project using C++ and Unreal Engine 5 helped me develop a wide range of skills that are valuable both as a programmer and as a student.
