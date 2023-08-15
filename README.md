@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1c6KBDMeUnWDJ3G6rZSkvV6xHV5xjscsN/view
 ### `ABOUT THE GAME:`
 
    This is a third person game that takes inspiration from Bruce lee's "GAME OF DEATH" movie in 1978.
-   The players's main purpose is to go through three stages (floors) of bosses and challenges,where eacg stage is more difficult that the previous one.
+   The players's main purpose is to go through three stages (floors) of bosses and challenges,where each stage is more difficult that the previous one.
 
 ### `THE GAME CONTAINS THE FOLLOWING:`
 
